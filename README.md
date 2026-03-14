@@ -126,7 +126,7 @@ const jyothish = {
 📍 Mar Athanasius College of Engineering Kothamangalam  
 📅 2025 - 2027
 
-🎯 **Bachelor of Computer Applications (MCA)**  
+🎯 **Bachelor of Computer Applications (BCA)**  
 📍 Nirmala College Muvattupuzha  
 📅 2022 - 2025
 
