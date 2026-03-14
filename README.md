@@ -98,16 +98,6 @@ const jyothish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -115,38 +105,6 @@ const jyothish = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-```python
-class CurrentGoals:
-    def __init__(self):
-        self.learning = [
-            "Advanced Data Structures & Algorithms",
-            "System Design",
-            "Cloud Technologies (AWS/Azure)",
-            "DevOps Practices"
-        ]
-        
-        self.building = [
-            "Full Stack Web Applications",
-            "Open Source Contributions",
-            "Problem Solving on HackerRank"
-        ]
-        
-        self.reading = [
-            "Clean Code by Robert C. Martin",
-            "Designing Data-Intensive Applications"
-        ]
-    
-    def get_motto(self):
-        return "Code. Learn. Repeat. 🚀"
-
-goals = CurrentGoals()
-print(goals.get_motto())
-```
 
 ---
 
