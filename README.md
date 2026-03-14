@@ -123,8 +123,12 @@ const jyothish = {
 ## 🎓 Education
 
 🎯 **Master of Computer Applications (MCA)**  
-📍 Mar Athanasius College of Engineering (MACE)  
-📅 2023 - 2025
+📍 Mar Athanasius College of Engineering Kothamangalam  
+📅 2025 - 2027
+
+🎯 **Bachelor of Computer Applications (MCA)**  
+📍 Nirmala College Muvattupuzha  
+📅 2022 - 2025
 
 ---
 
