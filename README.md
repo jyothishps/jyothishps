@@ -112,8 +112,8 @@ const jyothish = {
 
 <div align="center">
 
-[![FlipNMatch](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=flipnmatch&theme=tokyonight&hide_border=true)](https://github.com/yourusername/flipnmatch)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project2)
+[![Hide N Pick](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=flipnmatch&theme=tokyonight&hide_border=true)](https://github.com/jyothishps/Hide-N-Pick)
+[![CineGrid](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/jyothishps/CineGrid)
 
 </div>
 
